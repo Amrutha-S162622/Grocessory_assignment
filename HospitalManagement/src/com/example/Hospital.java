@@ -502,7 +502,7 @@ public class Hospital {
         }
 
         System.out.println("Hospital Revenue : ₹" + revenue);
-
+        System.out.println("Hospital Revenue : ₹" + revenue);
     }
 
 }

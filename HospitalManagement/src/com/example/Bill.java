@@ -99,7 +99,7 @@ public class Bill {
         System.out.println("Lab Charge       : " + labCharge);
         System.out.println("Discount         : " + discount);
         System.out.println("Total Amount     : " + totalAmount);
-
+        System.out.println("Total Amount     : " + totalAmount);
     }
 
 }
